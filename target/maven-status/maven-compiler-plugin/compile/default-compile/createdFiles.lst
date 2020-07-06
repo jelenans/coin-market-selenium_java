@@ -1,0 +1,6 @@
+coin_market/CoinMarketHomepage.class
+coin_market/CommonMethods.class
+coin_market/CryptoRow.class
+tests/TestRunner.class
+tests/Browser.class
+tests/ExcersizesTest.class
